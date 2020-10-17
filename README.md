@@ -1,5 +1,7 @@
 # Chicago's Kotlin Style
 
+![A Chicago flagged ketchup bottle dripping in a the pattern of Kotlin island with the Kotlin's logo colors](./images/logo.svg)
+
 This is an initiative by the Chicago's Kotlin User Group ([Slack channel](https://app.slack.com/client/T09229ZC6/C5GGU291C)) 
 to make a compilation of style and guidances for writing Kotlin code.
 
